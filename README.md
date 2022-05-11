@@ -1,2 +1,2 @@
-# Bloog-website
-Design credit go to :- https://www.youtube.com/c/DailyTuition/featured?app=desktop
+# Blooger_Website
+This is the complete blooger website create using html and css
